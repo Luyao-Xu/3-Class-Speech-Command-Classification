@@ -1,0 +1,4 @@
+Model,Type,Parameters,Flash Size (KB),Memory RAM (KB),Accuracy,Runtime CPU (ms),Latency (ms),Efficiency Score
+Model_A_Standard,QAT,215898,217.87,281.79,0.921,0.2175,0.2065,30.2114
+Model_B_Separable,QAT,3514,13.21,79.8,0.9157,0.1114,0.1122,224.467
+Model_C_UltraLight,QAT,2015,9.46,52.24,0.8463,0.0478,0.0425,648.0172

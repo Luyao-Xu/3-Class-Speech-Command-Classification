@@ -1,0 +1,10 @@
+Model,Type,Parameters,Accuracy,Runtime CPU (ms),Latency (ms),Flash Size (KB),Memory RAM (KB),Efficiency Score
+Model_A_Standard,Baseline,"215,683",91.04%,0.1594 ms,0.139 ms,845.80 KB,1105.17 KB,22.5545
+Model_B_Separable,Baseline,"3,283",91.14%,0.0523 ms,0.044 ms,18.20 KB,297.98 KB,480.8025
+Model_C_UltraLight,Baseline,"1,884",84.63%,0.0362 ms,0.031 ms,11.68 KB,187.71 KB,794.3493
+Model_A_Standard,PTQ,"215,683",91.57%,0.2233 ms,0.207 ms,218.95 KB,281.79 KB,29.8548
+Model_B_Separable,PTQ,"3,283",90.61%,0.1141 ms,0.114 ms,12.21 KB,79.80 KB,227.8312
+Model_C_UltraLight,PTQ,"1,884",84.42%,0.0460 ms,0.042 ms,9.70 KB,52.24 KB,640.7859
+Model_A_Standard,QAT,"215,898",92.10%,0.2175 ms,0.206 ms,217.87 KB,281.79 KB,30.2114
+Model_B_Separable,QAT,"3,514",91.57%,0.1114 ms,0.112 ms,13.21 KB,79.80 KB,224.4670
+Model_C_UltraLight,QAT,"2,015",84.63%,0.0478 ms,0.043 ms,9.46 KB,52.24 KB,648.0172

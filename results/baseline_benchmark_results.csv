@@ -1,0 +1,4 @@
+Model,Type,Parameters,Flash Size (KB),Memory RAM (KB),Accuracy,Runtime CPU (ms),Latency (ms),Efficiency Score
+Model_A_Standard,Baseline,215683,845.8,1105.17,0.9104,0.1594,0.1388,22.5545
+Model_B_Separable,Baseline,3283,18.2,297.98,0.9114,0.0523,0.0444,480.8025
+Model_C_UltraLight,Baseline,1884,11.68,187.71,0.8463,0.0362,0.0312,794.3493

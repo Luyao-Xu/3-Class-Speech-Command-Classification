@@ -1,0 +1,4 @@
+Model,Type,Total Parameters,TFLite Size (KB),Export Time (sec)
+Model_A_Standard,Baseline,215683,845.8,3.86
+Model_B_Separable,Baseline,3283,18.2,3.39
+Model_C_UltraLight,Baseline,1884,11.68,3.12

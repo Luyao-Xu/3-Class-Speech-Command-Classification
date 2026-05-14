@@ -1,0 +1,4 @@
+Model,Type,Parameters,Flash Size (KB),Memory RAM (KB),Accuracy,Runtime CPU (ms),Latency (ms),Efficiency Score
+Model_A_Standard,PTQ,215683,218.95,281.79,0.9157,0.2233,0.2073,29.8548
+Model_B_Separable,PTQ,3283,12.21,79.8,0.9061,0.1141,0.1138,227.8312
+Model_C_UltraLight,PTQ,1884,9.7,52.24,0.8442,0.046,0.0423,640.7859

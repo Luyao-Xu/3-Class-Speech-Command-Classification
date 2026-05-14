@@ -1,0 +1,7 @@
+,precision,recall,f1-score,support
+tree,0.68,0.36,0.47,176.0
+three,0.74,0.86,0.8,373.0
+two,0.86,0.91,0.89,388.0
+accuracy,0.79,0.79,0.79,0.79
+macro avg,0.76,0.71,0.72,937.0
+weighted avg,0.78,0.79,0.77,937.0
