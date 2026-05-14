@@ -1,0 +1,17 @@
+# Large raw audio data — download from official source
+data/raw/
+
+# Generated numpy features — reproducible via notebook 01
+data/processed/
+
+# Training logs — reproducible by running notebooks
+logs/
+
+# Jupyter noise
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+
+# OS files
+.DS_Store
+Thumbs.db
