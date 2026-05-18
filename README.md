@@ -108,7 +108,7 @@ Benchmark metrics per model: accuracy, latency (ms), CPU runtime (ms/sample), fl
 
 ---
 
-#### Key Results
+### Key Results
 
 - **Recommended deployment model:** **Model B(Mini-SqueezeNet) QAT** — within 91.57% accuracy | 13.21 KB flash | 0.112 ms latency. Suitable for real-time, resource-constrained deployment.
 
